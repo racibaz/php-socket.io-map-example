@@ -1,0 +1,32 @@
+[
+    {
+        "vehicleID": 10,
+        "date": "2018-09-07 20:01:38",
+        "latitude": 42.576,
+        "longitude": 32.5788
+    },
+    {
+        "vehicleID": 33,
+        "date": "2018-09-07 20:57:18",
+        "latitude": 40.576,
+        "longitude": 34.5788
+    },
+    {
+        "vehicleID": 35,
+        "date": "2018-05-30 19:41:00",
+        "latitude": 41.3582,
+        "longitude": 29.1233
+    },
+    {
+        "vehicleID": 200,
+        "date": "2018-09-07 19:58:59",
+        "latitude": 41.576,
+        "longitude": 31.5788
+    },
+    {
+        "vehicleID": 100,
+        "date": "2018-09-07 21:08:30",
+        "latitude": 43.576,
+        "longitude": 34.5788
+    }
+]
