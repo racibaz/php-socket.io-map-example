@@ -2,10 +2,10 @@
 
 
 Araç verisi gödnerilen url
-http://localhost/yoyo/emmit_test.php?vehicleID=100&latitude=41.5760&longitude=34.5788
+http://localhost/yoyo/emmit.php?vehicleID=100&latitude=41.5760&longitude=34.5788
 
 Harita url si
-http://localhost/yoyo/reciever_1.php
+http://localhost/yoyo/reciever.php
 
 Notlar : 
 1) Harita sayfası ilk açıldığında veriler gelmiyor. Veri gönderildiğinde veriler gösteriliyor.
